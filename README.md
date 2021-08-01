@@ -6,6 +6,7 @@
 </p>
  
 <!-- About me -->
+!Repositories not finished
 </br><h3> > Hi, I'm Alice Hincu! 💬 </h3>
 <p><em>
   I am from <b>Bacau, Romania.</b> </br>
