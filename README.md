@@ -1,6 +1,7 @@
-<!-- Introduction -->
+<!-- Introduction 
 <p align="center">
   <img width="300px" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" align="center" alt="First Computer Dog" /> <img width="300px" src="https://media.giphy.com/media/3oEdU8KR2ww8zTvv5S/giphy.gif" align="center" alt="Second Computer Dog" /> 
+-->
   <h1 align="center">Welcome to my page ! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h1>
   <p align="center">No dogs were harmed during the creation of this profile</p>
  
