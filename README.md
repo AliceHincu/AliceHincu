@@ -20,8 +20,8 @@ Make sure to scroll down to my pinned repositories, where you can find my [Unive
    <p align="center">Check out my progress!</p>
  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=913AliceHincu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=913AliceHincu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceHincu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceHincu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
