@@ -4,8 +4,7 @@
 -->
   <h1 align="center">Welcome to my page ! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h1>
   <p align="center">No dogs were harmed during the creation of this profile</p>
- 
-### :grey_exclamation: Repositories & profile not finished
+
 <!-- About me -->
 ### 💬 Hi, I'm Alice Hincu! 
 
