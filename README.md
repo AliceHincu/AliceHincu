@@ -15,6 +15,7 @@ Make sure to **scroll down** to my pinned repositories, where you can find:
 - [Calculator Project](https://github.com/AliceHincu/Calculator)
 - [University work](https://github.com/913AliceHincu/University) + [Theory & Concepts](https://github.com/913AliceHincu/Theory-Concepts)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/AliceHincu/Calculator)
 
 <!-- GitHub Readme Stats-->
  <p align="center">
