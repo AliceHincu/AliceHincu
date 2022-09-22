@@ -3,14 +3,17 @@
   <img width="300px" src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" align="center" alt="First Computer Dog" /> <img width="300px" src="https://media.giphy.com/media/3oEdU8KR2ww8zTvv5S/giphy.gif" align="center" alt="Second Computer Dog" /> 
 -->
   <h1 align="center">Welcome to my page ! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h1>
-  <p align="center">No dogs were harmed during the creation of this profile</p>
 
 <!-- About me -->
 ### 💬 Hi, I'm Alice Hincu! 
 
-I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in **Cluj, Romania**.  \
-I am a second year student at [Babes-Bolyai University](http://http://www.cs.ubbcluj.ro/en). \
-Make sure to scroll down to my pinned repositories, where you can find my [University work](https://github.com/913AliceHincu/University), some [React projects](https://github.com/913AliceHincu/React) and some [Theory & Concepts](https://github.com/913AliceHincu/Theory-Concepts).
+I was born in **Bacau, Romania**, but currently I am studying for my bachelor's degree in **Cluj, Romania**.
+I am a third year student at [Babes-Bolyai University](http://http://www.cs.ubbcluj.ro/en).
+
+### 💬 Projects 
+Make sure to **scroll down** to my pinned repositories, where you can find:
+- [Calculator Project](https://github.com/AliceHincu/Calculator)
+- [University work](https://github.com/913AliceHincu/University) + [Theory & Concepts](https://github.com/913AliceHincu/Theory-Concepts)
 
 
 <!-- GitHub Readme Stats-->
