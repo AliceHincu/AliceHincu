@@ -100,5 +100,5 @@
 
 ###
 
-![Snake animation](https://github.com/AliceHincu/AliceHincu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AliceHincu/AliceHincu/blob/output/snake.svg)
 ###
