@@ -100,6 +100,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AliceHincu/AliceHincu/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/AliceHincu/AliceHincu/blob/output/github-contribution-grid-snake.svg)
 ###
