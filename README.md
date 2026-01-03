@@ -1,7 +1,7 @@
 <h1 align="left">Welcome to my profile! 👋</h1>
 
 ###
-
+(new update since July 2025) I am currently based in London, Uk, working for Meta.
 <p align="left">I'm a Master's student specializing in Distributed Systems in the Internet at Babes Bolyai University in Cluj, Romania. My academic focus is on understanding and improving the ways in which modern distributed systems operate and interact across the internet.<br><br>In parallel to my studies, I work as a Full Stack Software Developer at LSEG Tora. Here, I engage with a variety of technologies and projects, contributing to both the client and server sides to create cohesive and efficient software solutions.<br><br>This GitHub profile serves as a portfolio of my work and interests. It includes projects related to my bachelor and master's studies, professional work, and personal experiments in software development. I'm always open to collaboration and eager to contribute to new and exciting projects.</p>
 
 ###
